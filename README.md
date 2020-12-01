@@ -9,4 +9,6 @@
 
 ![image1](https://i.imgur.com/8gj98vH.png)
 
+<h4>Go into your browser or Computer Settings and change your proxy settings to 127.0.0.1:PORT </h4>
+
 ![image2](https://i.imgur.com/5nVKo5K.png)
