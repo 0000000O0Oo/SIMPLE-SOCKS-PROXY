@@ -9,4 +9,4 @@
 
 ![image1](https://i.imgur.com/8gj98vH.png)
 
-![image2](https://i.gyazo.com/e8e6f03cb6d903b0b0639d96ea7a9b72.mp4)
+![image2](https://i.imgur.com/5nVKo5K.png)
