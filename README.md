@@ -5,7 +5,7 @@
 
 `dotnet build CANAPE.Cli/CANAPE.Cli.csproj -c Release -f netcoreapp3.0`\
 `cd CANAPE.Cli/bin/Release/netcoreapp3.0`\
-`dotnet exec CANAPE.Cli.dll Examples/SocksProxy.csx --color`
+`dotnet exec CANAPE.Cli.dll SocksProxy.csx --color`
 
 ![image1](https://i.imgur.com/8gj98vH.png)
 
